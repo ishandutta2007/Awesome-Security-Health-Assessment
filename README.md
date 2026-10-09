@@ -1,6 +1,6 @@
 # 🛡️ Awesome Security Health Assessment
 
-<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Security-Health-Assessment/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Security-Health-Assessment?style=flat-square&color=gold" alt="GitHub Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Security-Health-Assessment/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License"/></a> <a href="https://github.com/ishandutta2007/Awesome-Security-Health-Assessment/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Security-Health-Assessment/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Security-Health-Assessment?style=flat-square&color=gold" alt="GitHub Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Security-Health-Assessment/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License"/></a> <a href="https://github.com/ishandutta2007/Awesome-Security-Health-Assessment/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 ![Awesome Security Health Assessment Banner](assets/banner.svg)
 
@@ -19,6 +19,8 @@ Whether you are auditing **Cloud Security Posture (CSPM)**, **SaaS Security Post
 - [⚡ Open-Source GitHub Projects](#-open-source-github-projects)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚠️ Security & Compliance Disclaimer](#-security--compliance-disclaimer)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⭐ Star History](#-star-history)
 
 ---
 
@@ -135,6 +137,25 @@ Contributions are highly welcome! To add or update a security health assessment 
 - This list is community-curated for informational and educational purposes.
 - Security health assessment tools require read-only credentials; never grant write access to external or self-hosted posture scanners.
 - Always verify tool licenses and permissions against your organization's compliance policy before deployment.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for using and exploring **Awesome Security Health Assessment**! If you find this curated ecosystem valuable for your security posture auditing and DevSecOps workflows, please consider supporting the project:
+
+- ⭐ **Star** this repository to increase its visibility!
+- 🍴 **Fork** it to contribute new security tools and frameworks!
+- 📢 **Share** it with fellow security engineers, cloud architects, and colleagues!
+- ☕ **Sponsor / Buy me a coffee** via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007)!
+
+<a href="https://github.com/sponsors/ishandutta2007"><img src="https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" /></a>
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Security-Health-Assessment&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Security-Health-Assessment&type=date&legend=top-left)
 
 ---
 
