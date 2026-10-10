@@ -1,6 +1,6 @@
 # 🛡️ Awesome Security Health Assessment
 
-<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Security-Health-Assessment/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Security-Health-Assessment?style=flat-square&color=gold" alt="GitHub Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Security-Health-Assessment/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License"/></a> <a href="https://github.com/ishandutta2007/Awesome-Security-Health-Assessment/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Security-Health-Assessment/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Security-Health-Assessment?style=flat-square&color=gold" alt="GitHub_Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Security-Health-Assessment/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License"/></a> <a href="https://github.com/ishandutta2007/Awesome-Security-Health-Assessment/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 ![Awesome Security Health Assessment Banner](assets/banner.svg)
 
@@ -57,7 +57,7 @@ Commercial SaaS security health assessment platforms offer agentless API integra
 
 Open-source security health assessment tools provide policy-as-code, self-hosted scanners, and CLI/API framework compliance engines.
 
-*Sorted by **GitHub Star Count** (Descending)* 🔽
+*Sorted by **GitHub Stars_Count** (Descending)* 🔽
 
 - **[Trivy](https://github.com/aquasecurity/trivy)** <a href="https://github.com/aquasecurity/trivy/stargazers"><img src="https://img.shields.io/github/stars/aquasecurity/trivy?style=social" alt="Trivy stars"/></a>  
   **Comprehensive Security & Vulnerability Scanner** — Scans container images, file systems, Git repositories, Kubernetes clusters, cloud environments, and Infrastructure as Code (IaC) for misconfigurations and secrets.
@@ -127,7 +127,7 @@ Contributions are highly welcome! To add or update a security health assessment 
 
 1. **Fork** this repository.
 2. Add your entry into `README.md` following the tabular/badge markdown format.
-3. Ensure entries include verifiable pricing/trial limits or open-source star badges.
+3. Ensure entries include verifiable pricing/trial limits or open-source Stars_Badges.
 4. Submit a **Pull Request** with a brief summary of the added tool.
 
 ---
